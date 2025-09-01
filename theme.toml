@@ -1,11 +1,10 @@
-name = "Osprey Delight"
+name = "DocQuantum's Osprey Delight"
 
 license = "Apache License 2.0"
-licenselink = "https://github.com/kdevo/osprey-delight/blob/master/LICENSE.md"
+licenselink = "https://github.com/docquantum/docquantum-web-theme//blob/main/LICENSE.md"
 description = "Blazingly fast and modular theme perfectly suited for showing your work."
 
-homepage = "https://github.com/kdevo/osprey-delight"
-demosite = "https://hugo-mods.github.io/"
+homepage = "https://github.com/docquantum/docquantum-web-theme/"
 
 tags = ["portfolio", "projects", "minimal", "personal", "landing", "onepage", "single-page", "hugo-mods", "responsive", "blog"]
 features = [
@@ -19,10 +18,10 @@ features = [
 ]
 
 [author]
-  name = "kdevo"
-  homepage = "https://kdevo.github.io/"
+  name = "DocQuantum"
+  homepage = "https://docquantum.me/"
 
 [original]
-  author = "Toma Nistor"
-  homepage = "https://tomanistor.com"
-  repo = "https://github.com/tomanistor/osprey/"
+  name = "kdevo"
+  homepage = "https://kdevo.github.io/"
+  repo = "https://github.com/kdevo/osprey-delight/"

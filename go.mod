@@ -1,4 +1,4 @@
-module github.com/kdevo/osprey-delight/v5
+module github.com/docquantum/docquantum-web-theme/v5
 
 go 1.13
 
